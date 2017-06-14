@@ -1,0 +1,44 @@
+/** {
+	border: 1px solid black;
+}*/
+
+
+/* -- BODY -- */
+body {
+	font-family: Montserrat;
+}
+/* -- END BODY -- */
+
+/* -- CONTAINER -- */
+.container-fluid {
+	width: 95%;
+	margin: auto;
+}
+/* -- END CONTAINER -- */
+
+/* -- HEAD 1 -- */
+.head1 {
+	height: 100px;
+}
+
+.liens {
+	padding-top: 40px;
+	text-transform: uppercase;
+}
+/* -- END HEAD 1 -- */
+
+/* -- HEAD 2 -- */
+.head2 {
+	height: 70px;
+	background-color: #d9edc7;
+	text-transform: uppercase;
+
+}
+/* -- END HEAD 2 -- */
+
+/* -- BLOCK 1 -- */
+.block1 {
+	height: 540px;
+	background-color: #80c342;
+}
+/* -- END BLOCK 1 -- */
