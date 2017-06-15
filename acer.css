@@ -1,11 +1,11 @@
-/** {
-	border: 1px solid black;
-}*/
+* {
+	/*border: 1px solid black;*/
+	font-family: Raleway, Montserrat;
+}
 
 
 /* -- BODY -- */
 body {
-	font-family: Montserrat;
 	width: 100%;
 }
 /* -- END BODY -- */
@@ -51,8 +51,12 @@ body {
 /* -- END HEAD 2 -- */
 
 /* -- BLOCK 1 -- */
-.block1 {
-	height: 540px;
+/*#block1 {
 	background-color: #80c342;
 }
+
+#block1img {
+	height: 500px;
+	width: 
+}*/
 /* -- END BLOCK 1 -- */
