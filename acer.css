@@ -6,33 +6,47 @@
 /* -- BODY -- */
 body {
 	font-family: Montserrat;
+	width: 100%;
 }
 /* -- END BODY -- */
 
 /* -- CONTAINER -- */
 .container-fluid {
-	width: 95%;
-	margin: auto;
 }
 /* -- END CONTAINER -- */
 
 /* -- HEAD 1 -- */
-.head1 {
+#head1 {
 	height: 100px;
+	line-height: 100px;
+	background-color: white;
 }
 
-.liens {
-	padding-top: 40px;
+#logo {
+	height: 50px;
+}
+	
+#head1 a {
 	text-transform: uppercase;
+	color: grey;
+	font-weight: bold;
+	font-size: 0.9em;
 }
 /* -- END HEAD 1 -- */
 
 /* -- HEAD 2 -- */
-.head2 {
-	height: 70px;
+#head2 {
+	
 	background-color: #d9edc7;
-	text-transform: uppercase;
+}
 
+#head2 a {
+	height: 70px;
+	line-height: 70px;
+	text-transform: uppercase;
+	color: black;
+	font-weight: bold;
+	font-size: 0.8em;
 }
 /* -- END HEAD 2 -- */
 
