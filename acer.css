@@ -132,7 +132,7 @@ body {
 	height: 450px;
 	background-color: #424242;
 	font-weight: bold;
-	padding-top: 30px;
+	padding-top: 20px;
 }
 
 #block9 li {
@@ -142,15 +142,40 @@ body {
 
 }
 
-#block9 a {
+#block9 a, p {
 	text-decoration: none;
 	color: #8e8e8e;
-	font-size: 0.9em;
+	font-size: 0.7em;
+}
+
+#block9 a:hover {
+	font-weight: bold;
+	color: white;
 }
 
 .titre {
 	padding-top: 30px;
-	padding-bottom: 50px;
+}
+
+#fb, #twi, #you, #goo {
+	font-size: 30px;
+	padding-right: 10px;
+}
+
+#fb:hover {
+	color: #38609c;
+}
+
+#twi:hover {
+	color: #30a4dc;
+}
+
+#you:hover {
+	color: #e9393a;
+}
+
+#goo:hover {
+	color: #d85642;
 }
 /* -- END BLOCK 9 -- */
 /* -- BLOCK 10 -- */
